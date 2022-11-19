@@ -69,7 +69,7 @@ global.mess = {
     nolink: 'grup ini anti link *link*, goblok!',
     error: 'hadoh error Cok gimana inj!',
     banned: 'kamu sudah *Banned* buat menggunakan command!',
-    bangc: 'grup inj sudah *Banned* buat menggunakan command!',
+    bangc: 'grup ini sudah *Banned* buat menggunakan command!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!',
     
 }
