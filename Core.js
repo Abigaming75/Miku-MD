@@ -3999,7 +3999,7 @@ case 'gasm':
     if (!m.isGroup) return replay(mess.grouponly)
     if (!AntiNsfw) return reply(mess.nonsfw)
 reply(mess.waiting)						
- waifudd = await axios.get(`https://nekos.life/api/v2/img/gasm')
+ waifudd = await axios.get(`https://nekos.life/api/v2/img/${command}')
                            var wbuttsss = [
         {buttonId: `${prefix}gasm`, buttonText: {displayText: `>>`}, type: 1},
         ]
